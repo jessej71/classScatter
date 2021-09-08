@@ -1,0 +1,1 @@
+Exercise done in class on September 8, 2021. Shows how simple changes in the "overview plus detail" Vega example can identify a new source .csv of data. Also includes a simple block demonstrating how html can be written to include a Vega graphic using vega-embed.
